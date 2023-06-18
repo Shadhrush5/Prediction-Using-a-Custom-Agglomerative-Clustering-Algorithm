@@ -1,0 +1,2 @@
+# Prediction-Using-a-Custom-Agglomerative-Clustering-Algorithm
+This project is focused on the Breast Cancer Wisconsin (Diagnostic) dataset, aiming to classify data points as Malignant or Benign. Here I am using Agglomerative clustering for classification, preceded by specific pre-processing steps. Though using classifiaction models would have been a better choice, this shows that clustering can also be used.
